@@ -10,10 +10,10 @@
 
 ### 🎓 About Me
 
-- 🏫 I am currently a PhD student at **Central South University (CSU)**.
-- 🔬 My research lies at the intersection of **Evolutionary Game Theory**, **Complex Networks**, and **Logic**.
-- 💡 I am particularly passionate about exploring **trust dynamics**, cooperation, and network evolution, especially modeling how networks adapt and survive in high-risk environments.
-- 📫 How to reach me: **[haof6575@gmail.com](mailto:haof6575@gmail.com)**
+- 🏫 **Ph.D. Researcher** at **Central South University (CSU)**.
+- 🔬 My work is situated at the intersection of **Evolutionary Game Theory**, **Complex Networks**, and **Logic**.
+- 💡 I specialize in investigating **trust dynamics** and cooperation through **trust-adaptive network models** and the **Prisoner's Dilemma**. A key focus of my research is understanding network coevolution—specifically, how topologies adapt and survive in high-risk environments.
+- 📫 Contact me: **[haof6575@gmail.com](mailto:haof6575@gmail.com)**
 
 ---
 
