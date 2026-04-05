@@ -16,7 +16,7 @@
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=LIIIhao&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true&cache_seconds=86400" />
   </a>
   <a href="https://github.com/LIIIhao">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LIIIhao&layout=compact&theme=radical&hide=html,css&cache_seconds=86400" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LIIIhao&layout=compact&theme=graywhite&hide=html,css&cache_seconds=86400" />
   </a>
 </p>
 
