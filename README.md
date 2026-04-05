@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Dongqing Li</h1>
 
-<h3 align="center">Researcher in Evolutionary Game Theory, Complex Networks & Logic</h3>
+<h3 align="center">Researcher in Evolutionary Game Theory, Complex Networks, Formal Logic</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=LIIIhao&color=79C83D&style=flat-square&label=Profile+Views" alt="LIIIhao's Profile Views" />
