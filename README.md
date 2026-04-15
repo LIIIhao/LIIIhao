@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Dongqing Li</h1>
 
-<!--
-**LIIIhao/LIIIhao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Researcher in Evolutionary Game Theory, Complex Networks, Modal Logic</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=LIIIhao&color=79C83D&style=flat-square&label=Profile+Views" alt="LIIIhao's Profile Views" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/LIIIhao">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=LIIIhao&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true&cache_seconds=86400" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Exploring the logic cooperation, trust, and network dynamics."</i>
+</p>
